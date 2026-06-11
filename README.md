@@ -1,4 +1,4 @@
-# CodeTale by Mahek 💻✨
+# CodeTale by Mahek 💻
 
 AI-powered gamified coding practice platform with DSA problems, code execution, AI hints, code review, complexity analysis, mock interviews, and ByteChat mentor support.
 
