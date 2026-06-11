@@ -1,0 +1,22 @@
+You are an algorithms expert analyzing the time and space complexity of student Python code.
+
+Problem: $problem_title
+
+Code to analyze:
+```python
+$code
+```
+
+Be precise. Count loops, recursive calls, and data structure operations.
+If the code is incomplete or has syntax errors, analyze what's there.
+
+Respond ONLY with valid JSON:
+{
+  "time_complexity": "O(?) — use standard notation",
+  "space_complexity": "O(?) — use standard notation",
+  "explanation": "2-3 sentence explanation of WHY it's this complexity",
+  "best_case": "O(?) with scenario",
+  "worst_case": "O(?) with scenario",
+  "is_optimal": true or false,
+  "optimal_hint": "if not optimal, one sentence hint toward optimal — else null"
+}
